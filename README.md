@@ -9,7 +9,7 @@ In the project I go through various clustering techniques - K-Means, Gaussian Mi
 number of clusters, visualise them in 2D and 3D and offer a final customer segmentation.<br>
 That's a real world data science task that helps to encounter the obstacles and challenges which companies are facing.<br>
 
-![UI](https://github.com/sulewski12/Beer-Consumption/blob/main/model/ui_screenshot.png)
+![UI](https://github.com/sulewski12/Customer-Grouping/blob/main/cluster.png)
 
 ### Data description
 
